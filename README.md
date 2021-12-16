@@ -1,6 +1,5 @@
 # NBA-Stats-Analysis
 
-# This document contains the description of each attachment and the order they should be read in. 
 --- 
 1.	‘IanMurphy_CapstoneDataExtractionFirstModelFeatureEngineering’ (Jupyter Notebook)
 a.	Getting the data
@@ -16,6 +15,4 @@ a.	EDA
 a.	PCA
 b.	Hyperparameter optimization
 c.	Final Models and Conclusion 
-6.	‘IanMurphy_CapstoneReport’ (PDF)
-a.	Final Written Report
 --- 
